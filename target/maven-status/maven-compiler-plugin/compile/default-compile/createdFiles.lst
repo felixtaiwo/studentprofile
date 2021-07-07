@@ -1,0 +1,13 @@
+StudentProfile\App.class
+StudentProfile\Repositories\BioRepo.class
+StudentProfile\Subjects\Biology$grades.class
+StudentProfile\Repositories\ResultRepo.class
+StudentProfile\Service.class
+StudentProfile\Subjects\Biology.class
+StudentProfile\Student.class
+StudentProfile\Controller.class
+StudentProfile\Repositories\PhysicsRepo.class
+StudentProfile\Result.class
+StudentProfile\Subjects\Physics.class
+StudentProfile\Subjects\Physics$grades.class
+StudentProfile\Repositories\StudentRepo.class

@@ -1,0 +1,4 @@
+This is API is a simple demonstration of a result processing platform using "phyiscs" and "biology" as a test case. This Application can be further developed to suit the needs of any organization
+
+Thank you,
+Felix Adewale
